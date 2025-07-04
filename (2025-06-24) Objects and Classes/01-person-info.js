@@ -3,7 +3,7 @@ function getPersonObject (firstName, lastName, age) {
         firstName,
         lastName,
         age,
-    }
+    };
 
     return person;
 }

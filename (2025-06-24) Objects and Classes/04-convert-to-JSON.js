@@ -3,7 +3,7 @@ function convertToJSON (name, lastName, hairColor) {
         name,
         lastName,
         hairColor
-    }
+    };
 
     let jsonAsString = JSON.stringify(person);
     console.log(jsonAsString);

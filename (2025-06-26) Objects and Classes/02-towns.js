@@ -8,7 +8,7 @@ function printTownsObjects (townsTableRowsArr) {
             town: townName,
             latitude: townLatitude.toFixed(2),
             longitude: townLongitude.toFixed(2)
-        }
+        };
 
         console.log(town);
     }

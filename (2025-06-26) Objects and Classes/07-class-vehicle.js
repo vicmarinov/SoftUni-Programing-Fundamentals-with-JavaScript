@@ -6,7 +6,7 @@ class Vehicle {
             engine: partsAsObject.engine,
             power: partsAsObject.power,
             quality: partsAsObject.engine * partsAsObject.power
-        }
+        };
         this.fuel = fuel;
     }
 
