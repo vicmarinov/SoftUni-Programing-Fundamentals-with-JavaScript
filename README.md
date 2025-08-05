@@ -23,3 +23,17 @@ Course structure
 | Software Development Concepts – Part 1         | common lecture | 9 June 2025  |
 | Arrays Advanced                                | lecture        | 10 June 2025 |
 | Arrays Advanced                                | exercise       | 12 June 2025 |
+| Objects and Classes                            | lecture        | 24 June 2025 |
+| Objects and Classes                            | exercise       | 26 June 2025 |
+| Software Development Concepts – Part 2         | common lecture | 30 June 2025 |
+| Associative Arrays                             | lecture        | 1 July 2025  |
+| Associative Arrays                             | exercise       | 3 July 2025  |
+| Bitwise Operations                             | common lecture | 7 July 2025  |
+| Text Processing                                | lecture        | 8 July 2025  |
+| Text Processing                                | exercise       | 10 July 2025 |
+| Problem Solving                                | common lecture | 14 July 2025 |
+| Regular Expressions                            | lecture        | 15 July 2025 |
+| Regular Expressions                            | exercise       | 17 July 2025 |
+| Database Basics                                | common lecture | 21 July 2025 |
+| QA Introduction                                | common lecture | 28 July 2025 |
+| Basic Web Project                              | lecture        | 30 July 2025 |
