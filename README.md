@@ -36,4 +36,4 @@ Course structure
 | Regular Expressions                            | exercise       | 17 July 2025 |
 | Database Basics                                | common lecture | 21 July 2025 |
 | QA Introduction                                | common lecture | 28 July 2025 |
-| Basic Web Project                              | lecture        | 30 July 2025 |
+| Basic Web Project                              | workshop       | 30 July 2025 |
